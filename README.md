@@ -73,6 +73,6 @@ _Capturas de tela, gifs ou vídeos de gameplay podem ser inseridos aqui para ilu
 
 ## 📄 Licença
 
-_ MIT License_
+_MIT License_
 
 ---
